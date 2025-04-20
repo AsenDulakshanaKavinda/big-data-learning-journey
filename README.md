@@ -1,7 +1,3 @@
-Looks like the code session reset — no worries, bro. I’ll drop the full `README.md` content for your **`big-data-learning-journey`** repo right here so you can copy-paste it directly:
-
----
-
 # 📊 Big Data Learning Journey
 
 **A hands-on learning repository for mastering Big Data fundamentals, tools, and workflows through practical projects, code labs, and technical documentation. Focused on Hadoop, Spark, Kafka, and MongoDB with project-based learning and public documentation.**
