@@ -1,0 +1,7 @@
+Python  Easy language for AI, data science, web apps, and automation.
+JavaScript  Runs websites in the browser, makes them interactive.
+Java  Used for Android apps, large business software, and web servers.
+C  Good for system software, like operating systems and hardware drivers.
+C++  Faster version of C, great for games and 3D apps.
+C#  Best for Windows apps and games using Unity.
+PHP  Creates dynamic websites like Facebook (earlier) and blogs.
