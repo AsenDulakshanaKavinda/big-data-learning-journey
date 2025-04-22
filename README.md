@@ -49,7 +49,7 @@ I'll be publishing weekly LinkedIn posts and technical write-ups on Medium cover
 - Code snippets  
 - Installation tips & troubleshooting  
 
-**Connect with me on [LinkedIn](#) to follow this journey!**
+**Connect with me on [LinkedIn](#https://www.linkedin.com/in/asen-dulakshana-0a1b882a7/) to follow this journey!**
 
 ---
 
